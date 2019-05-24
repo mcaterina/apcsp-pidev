@@ -48,7 +48,7 @@ int main()
   }
   else
   {
-    printf("a and be do not equal 0\n");
+    printf("a and b do not equal 0\n");
   }
 
   if (a == 0 || b == 0)
@@ -60,7 +60,7 @@ int main()
     printf("neither a nor b equal 0\n");
   }
 
-  if !(b == 0)
+  if (!b == 0)
   {
     printf("b is not 0\n");
   }
